@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <link rel ="stylesheet" href="/css/app.css">
     <link rel ="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha2/css/bootstrap.min.css"/>
-    <title>@yield('title_block')</title>
+    <title>@yield('title_block')!!</title>
   </head>
   <body>
      @include('.inc.header')
